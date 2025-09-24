@@ -1,1 +1,1 @@
-# prophet-stock-data-prediction
+# Stock Data Prediction using Prophet
